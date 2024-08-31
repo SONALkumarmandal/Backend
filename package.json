@@ -4,11 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev":"modemon src/index.js"
+    "dev": "modemon src/index.js"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^3.1.4"
+  },
+  "dependencies": {
+    "prettier": "^3.3.3"
   }
 }
